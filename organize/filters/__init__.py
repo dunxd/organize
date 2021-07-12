@@ -9,3 +9,4 @@ from .last_modified import LastModified
 from .mimetype import MimeType
 from .python import Python
 from .regex import Regex
+from .date_added import DateAdded
